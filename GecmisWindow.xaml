@@ -1,0 +1,33 @@
+﻿<Window x:Class="VisionGuard_AI.GecmisWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Analiz Geçmiş Raporları" Height="450" Width="600" 
+        WindowStartupLocation="CenterOwner" Background="#1A1A1A">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,15">
+            <materialDesign:PackIcon Kind="History" Width="30" Height="30" Foreground="#673AB7" VerticalAlignment="Center"/>
+            <TextBlock Text="ADLİ ANALİZ GEÇMİŞİ" Foreground="White" FontSize="18" FontWeight="Bold" Margin="10,0,0,0" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <DataGrid Grid.Row="1" x:Name="dgGecmis" AutoGenerateColumns="True" IsReadOnly="True" 
+                  Background="#1E1E1E" Foreground="White" RowBackground="#252525" 
+                  BorderBrush="#333333" GridLinesVisibility="Horizontal" HorizontalGridLinesBrush="#333333"
+                  FontSize="14" FontWeight="SemiBold">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#673AB7"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="Padding" Value="10"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+    </Grid>
+</Window>

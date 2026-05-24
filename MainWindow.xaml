@@ -1,0 +1,100 @@
+﻿<Window x:Class="VisionGuard_AI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VisionGuard_AI"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        Title="VisionGuard AI - Görüntü Karşılaştırmalı Analiz" Height="650" Width="1100"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Left" Background="#1A1A1A" Width="200">
+                <materialDesign:PackIcon Kind="ShieldCheck" Width="50" Height="50" Foreground="#673AB7" Margin="0,30,0,10" HorizontalAlignment="Center"/>
+                <TextBlock Text="VISION GUARD" Margin="10" Foreground="White" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center"/>
+                <Separator Margin="15" Background="#333333"/>
+
+                <Button Content="ANA SAYFA" Margin="10,5" Style="{StaticResource MaterialDesignRaisedButton}"/>
+                <Button x:Name="btnAnalizEt" Click="btnAnalizEt_Click" Content="ANALİZİ BAŞLAT" Margin="10,5" 
+                        Style="{StaticResource MaterialDesignRaisedButton}" Background="#4CAF50" BorderBrush="#4CAF50"/>
+                <Button Content="GEÇMİŞ" Click="btnGecmis_Click" Margin="10,5" Style="{StaticResource MaterialDesignRaisedButton}"/>
+                <Button Content="AYARLAR" Click="btnAyarlar_Click" Margin="10,5" Style="{StaticResource MaterialDesignRaisedButton}"/>
+
+                <Button Content="YARDIM" Click="btnYardim_Click" Margin="10,180,10,10" Style="{StaticResource MaterialDesignRaisedButton}"/>
+            </StackPanel>
+
+            <StackPanel DockPanel.Dock="Right" Width="250" Background="#252525" Margin="5">
+                <TextBlock Text="KONTROL PANELİ" Margin="15" Foreground="White" FontSize="16" FontWeight="Bold"/>
+
+                <TextBlock Text="Algoritma Seçimi" Margin="15,0" Foreground="Gray" FontSize="12"/>
+                <ComboBox x:Name="comboAlgoritma" Margin="15,5" SelectedIndex="0" Foreground="White" 
+                          materialDesign:HintAssist.Hint="Seçiniz" SelectionChanged="comboAlgoritma_SelectionChanged">
+                    <ComboBoxItem Content="SIFT Algoritması"/>
+                    <ComboBoxItem Content="SURF Algoritması"/>
+                    <ComboBoxItem Content="AKAZE Algoritması"/>
+                    <ComboBoxItem Content="ORB Algoritması"/>
+                    <ComboBoxItem Content="CNN + LSTM (Yapay Zeka)" Background="#673AB7" Foreground="White" FontWeight="Bold"/>
+                </ComboBox>
+
+                <Separator Margin="15" Background="#333333"/>
+
+                <TextBlock Text="ANALİZ DURUMU" Margin="15,10" Foreground="White" FontWeight="Bold"/>
+                <ProgressBar x:Name="prgAnaliz" Value="0" Height="15" Margin="15,5" Foreground="Lime" Background="#444444"/>
+                <TextBlock x:Name="txtSkor" Text="Eşleşme Oranı: %0" Margin="15,0" Foreground="#BBBBBB" FontSize="13"/>
+
+                <Button x:Name="btnRaporIndir" Click="btnRaporIndir_Click" Content="RAPORU İNDİR" Margin="15,30" 
+                        Style="{StaticResource MaterialDesignRaisedButton}" IsEnabled="False" Background="#673AB7" BorderBrush="#673AB7"/>
+            </StackPanel>
+
+            <Grid Background="#121212">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition x:Name="colOrijinal" Width="*"/>
+                        <ColumnDefinition x:Name="colSupheli" Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Grid.Column="0" BorderBrush="#333333" BorderThickness="2" CornerRadius="10" Margin="5" Background="#1E1E1E" 
+                            x:Name="borderOrijinal" MouseLeftButtonDown="btnOrijinalYukle_Click" Cursor="Hand">
+                        <Grid>
+                            <Image x:Name="imgOrijinal" Margin="5" Stretch="Uniform"/>
+                            <StackPanel VerticalAlignment="Center" x:Name="stackOrijinalHint">
+                                <materialDesign:PackIcon Kind="ImageSearch" Width="50" Height="50" Foreground="#673AB7" HorizontalAlignment="Center"/>
+                                <TextBlock Text="Orijinal Resmi Seç" Foreground="Gray" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+
+                    <Border Grid.Column="1" BorderBrush="#333333" BorderThickness="2" CornerRadius="10" Margin="5" Background="#1E1E1E" 
+                            x:Name="borderSupheli" MouseLeftButtonDown="btnSupheliYukle_Click" Cursor="Hand">
+                        <Grid>
+                            <Image x:Name="imgSupheli" Margin="5" Stretch="Uniform"/>
+                            <StackPanel VerticalAlignment="Center" x:Name="stackSupheliHint">
+                                <materialDesign:PackIcon Kind="ImageEdit" Width="50" Height="50" Foreground="#FF5722" HorizontalAlignment="Center"/>
+                                <TextBlock x:Name="txtSupheliLabel" Text="Şüpheli Resmi Seç" Foreground="Gray" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Grid>
+                    </Border>
+                </Grid>
+
+                <Border Grid.Row="1" Height="220" BorderBrush="#673AB7" BorderThickness="1" Margin="15,0,15,15" CornerRadius="10" Background="#1A1A1A">
+                    <Grid>
+                        <Image x:Name="imgSonuc" Margin="8" Stretch="Uniform"/>
+                        <TextBlock x:Name="txtSonucHint" Text="Analiz Sonucu (Eşleşme Çizgileri) Burada Görünecek" 
+                                   VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#444444" FontSize="14" IsHitTestVisible="False"/>
+                    </Grid>
+                </Border>
+            </Grid>
+        </DockPanel>
+
+        <materialDesign:Snackbar x:Name="MainSnackbar" MessageQueue="{materialDesign:MessageQueue}" VerticalAlignment="Bottom" Margin="0,0,0,20"/>
+    </Grid>
+</Window>

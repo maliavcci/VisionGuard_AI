@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisionGuard_AI\\VisionGuard_AI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\gecmiswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:gecmiswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\yardimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:yardimwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\yardimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:yardimwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|e:\\visionguard_ai\\visionguard_ai\\gecmiswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DB8F8A-9B82-4C1D-A788-924AB6277136}|VisionGuard_AI.csproj|solutionrelative:gecmiswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GecmisWindow.xaml.cs",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\GecmisWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GecmisWindow.xaml.cs",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\GecmisWindow.xaml.cs",
+              "RelativeToolTip": "GecmisWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:26:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GecmisWindow.xaml",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\GecmisWindow.xaml",
+              "RelativeDocumentMoniker": "GecmisWindow.xaml",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\GecmisWindow.xaml",
+              "RelativeToolTip": "GecmisWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T20:26:03.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:22:55.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-27T15:44:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-27T15:27:00.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T15:26:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YardimWindow.xaml",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\YardimWindow.xaml",
+              "RelativeDocumentMoniker": "YardimWindow.xaml",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\YardimWindow.xaml",
+              "RelativeToolTip": "YardimWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T20:32:15.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YardimWindow.xaml.cs",
+              "DocumentMoniker": "E:\\VisionGuard_AI\\VisionGuard_AI\\YardimWindow.xaml.cs",
+              "RelativeDocumentMoniker": "YardimWindow.xaml.cs",
+              "ToolTip": "E:\\VisionGuard_AI\\VisionGuard_AI\\YardimWindow.xaml.cs",
+              "RelativeToolTip": "YardimWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:32:44.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

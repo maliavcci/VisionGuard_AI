@@ -1,0 +1,99 @@
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.exe
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.deps.json
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.runtimeconfig.json
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.pdb
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.csproj.AssemblyReference.cache
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\App.baml
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI_MarkupCompile.cache
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI_MarkupCompile.lref
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.g.resources
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.AssemblyInfoInputs.cache
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.AssemblyInfo.cs
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.csproj.CoreCompileInputs.cache
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGu.9A0361A3.Up2Date
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\refint\VisionGuard_AI.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.pdb
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.genruntimeconfig.cache
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\obj\Debug\net8.0-windows\ref\VisionGuard_AI.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\concrt140.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\cvextern.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140_1.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140_2.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140_codecvt_ids.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\vcruntime140.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x64\vcruntime140_1.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\concrt140.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\cvextern.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140_1.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140_2.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140_codecvt_ids.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\x86\vcruntime140.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Users\avcim\OneDrive\Masaüstü\Udemy Projeleri C#\VisionGuard_AI\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\concrt140.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\cvextern.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140_1.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140_2.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\msvcp140_codecvt_ids.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\opencv_videoio_ffmpeg440_64.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\vcruntime140.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x64\vcruntime140_1.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\concrt140.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\cvextern.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140_1.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140_2.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\msvcp140_codecvt_ids.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\opencv_videoio_ffmpeg440.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\x86\vcruntime140.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.exe
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.deps.json
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.runtimeconfig.json
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\VisionGuard_AI.pdb
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\Emgu.CV.Platform.NetStandard.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.csproj.AssemblyReference.cache
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\App.baml
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\App.g.cs
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI_MarkupCompile.cache
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI_MarkupCompile.lref
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\MainWindow.baml
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.g.resources
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.AssemblyInfoInputs.cache
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.AssemblyInfo.cs
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.csproj.CoreCompileInputs.cache
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGu.9A0361A3.Up2Date
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.dll
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\refint\VisionGuard_AI.dll
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.pdb
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\VisionGuard_AI.genruntimeconfig.cache
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\ref\VisionGuard_AI.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\VisionGuard_AI\VisionGuard_AI\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\GecmisWindow.baml
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\GecmisWindow.g.cs
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\YardimWindow.baml
+E:\VisionGuard_AI\VisionGuard_AI\obj\Debug\net8.0-windows\YardimWindow.g.cs
