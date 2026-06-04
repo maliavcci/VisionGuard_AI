@@ -1,1 +1,1 @@
-VisionGuard AI Proje Teslimi
+VisionGuard AI
